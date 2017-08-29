@@ -2,12 +2,12 @@ engines:
   structure:
     enabled: true
     channel: java
-   duplication:
-     enabled: true
-     channel: java
-     config:
-       languages:
-         - java
+  duplication:
+    enabled: true
+    channel: java
+    config:
+      languages:
+        - java
 ratings:
   paths:
     - "**.java"
