@@ -3,11 +3,11 @@ engines:
     enabled: true
     channel: java
    duplication:
-   enabled: true
-   channel: java
-   config:
-     languages:
-       - java
+     enabled: true
+     channel: java
+     config:
+       languages:
+         - java
 ratings:
   paths:
     - "**.java"
